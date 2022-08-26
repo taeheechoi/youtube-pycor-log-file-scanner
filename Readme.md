@@ -28,9 +28,9 @@ The intention of this project is to help developers to search specific words or 
    python -m venv venv
    venv\scripts\activate
    ```
-3. Update log_file_scanner.bat
+3. Update run.bat with a correct project folder
    ```sh
-   C:\log-file-scanner\venv\Scripts\python.exe main.py
+   C:\project-folder\venv\Scripts\python.exe main.py
    ```
 ## Acknowledgments
 
