@@ -1,4 +1,4 @@
-# Epicor Automation using Python - Creating and disabling user account from Gmail
+# Epicor Automation using Python - Searching specific words or sentences within larger log files. 
 
 <!-- ABOUT THE PROJECT -->
 
