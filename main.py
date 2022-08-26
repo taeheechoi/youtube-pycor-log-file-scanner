@@ -4,7 +4,7 @@ from multiprocessing.dummy import Pool # from multiprocessing is not working
 from pathlib import Path
 
 SOURCE_DIR = 'source' # source folder
-WORDS = ['taehee choi', 'pycor'] # search word
+WORDS = ['where are you?', 'pycor'] # search word
 
 
 def file_list():
