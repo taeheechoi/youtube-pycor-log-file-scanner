@@ -18,7 +18,7 @@ The intention of this project is to help developers to search specific words or 
 - VS Code
 
 ### Installation
-
+[YouTube](https://youtu.be/xhGIqLQNjgk)
 1. Clone the repo
    ```sh
    git clone https://github.com/taeheechoi/youtube-pycor-log-file-scanner.git .
