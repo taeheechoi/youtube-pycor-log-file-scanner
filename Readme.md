@@ -1,4 +1,4 @@
-# Epicor Automation using Python - Searching specific words or sentences within larger log files. 
+# Epicor Automation using Python - Searching specific words or sentences in the large log files. 
 
 <!-- ABOUT THE PROJECT -->
 
